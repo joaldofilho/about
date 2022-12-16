@@ -535,4 +535,8 @@
 }
 body {
 	background-color: black;
-  }  
+  }
+.line {
+	outline: 1px solid white;
+}
+  
